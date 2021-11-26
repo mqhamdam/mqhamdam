@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hamdam :)
-- 👀 I’m interested in AWS Serverless / Firebase / Flutter 
-- 🌱 I’m currently learning BLoC / Amazon Web Services 
-- 💞️ I’m looking to collaborate on Flutter and AWS Projects
-- 📫 You can find me anywhere whith  /mqhamdam
+- 👀 I’m interested in AWS Serverless / Firebase / Flutter / MongoDB 
+- 🌱 I’m currently learning Amazon Web Services and MongoDB
+- 💞️ I’m looking to collaborate on Flutter / AWS Projects / MongoDB
+- 📫 You can find me anywhere with  /mqhamdam
 
 <!---
 mqhamdam/mqhamdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
