@@ -15,7 +15,7 @@
 
 <p>
    &nbsp; &nbsp; &nbsp; &nbsp;
-   <a href="mailto:mqhamdam@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:mq.hamdam@gmail.com?subject=From%GitHub!)"></a>
+   <a href="mailto:mq.hamdam@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:mq.hamdam@gmail.com?subject=From%GitHub!)"></a>
    <a href="https://www.linkedin.com/in/mqhamdam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mqhamdam/"></a>
    <a href="https://www.instagram.com/hamdammq/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hamdammq/"></a>
    <a href="https://telegram.me/mqhamdam" target="_blank"><img src="https://img.shields.io/badge/Telegram-0A66C2?style=flat-square&logo=Telegram&logoColor=&link=https://www.telegram.me/hamdammq/"></a>
