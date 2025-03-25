@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Amazon Web Services and MongoDB
 - 💞️ I’m looking to collaborate on Flutter / AWS Projects / MongoDB
 
- ## Proud of being Kyungpook National University Student ! visit website ~
+ ## Alumni of Kyungpook National University (Korea)
 <p>
   
    <a href="knu.ac.kr"><img src="https://knu.ac.kr/wbbs/assets/images/common/header_logo_off.png"></a>
